@@ -1,0 +1,25 @@
+.city {
+
+inset-inline:  600px;;
+
+
+}
+
+.header {
+inset: block 20px;;
+
+
+
+}
+
+
+body {
+    background-image: url('back.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0; 
+}
+
+
