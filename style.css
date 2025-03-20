@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: Valentine;
     src: url(Valentine.otf);
@@ -19,8 +21,17 @@ inset: block 20px;;
 
 }
 
+#paragraph{
+
+
+padding: 50px;
+
+
+}
+
 
 body {
+    background-color:#FF69B4;
     background-image: url('back.jpg');
     background-size: cover; 
     background-position: center; 
@@ -34,11 +45,13 @@ body {
     top: 50px;
     left: 100px;
     inset-inline: 5px;
+    padding: 100px;
   }
 
 
 body {
 
-font-family: 'Courier New', Courier, monospace;
+font-family: Valentine;
 
 }
+
